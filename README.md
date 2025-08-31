@@ -27,5 +27,5 @@
 ## 📫 Como entrar em contato comigo
 
 - ✉️ Email: [gabriel.barcelos.contato@gmail.com](mailto:gabriel.barcelos.contato@gmail.com)  
-- 💼 LinkedIn: [Gabriel Barcelos](https://www.linkedin.com/in/gabriel-barcelos)     
+- 💼 LinkedIn: [Gabriel Barcelos](https://www.linkedin.com/in/gabiel-barcelos)     
 - 📸 Instagram: [@Gabbarcel](https://www.instagram.com/gabbarcel)
