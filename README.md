@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel!
 
-<!--
-**GABBARCEL/GABBARCEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Sou estudante e entusiasta em **programação com Python**.  
+🎯 Atualmente estou focado em:
+- Melhorar minhas habilidades em **Python intermediário** (funções avançadas, POO e estruturas de dados).
+- Desenvolver pequenos projetos práticos, como **GUIs** e **automação de tarefas**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Meus objetivos:
+- Criar projetos do início ao fim, aplicando teoria em prática.
+- consolidar **POO**.
+- Compartilhar minha evolução e estudos aqui no GitHub.
+
+📚 Áreas que me interessam:
+- Desenvolvimento de aplicações com **Python**  
+- Desenvolvimento web
+- Criação de GUIs  
+- Aprendizado contínuo em programação  
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+## 📫 Como entrar em contato comigo
+
+- ✉️ Email: [gabriel.barcelos.contato@gmail.com](mailto:gabriel.barcelos.contato@gmail.com)  
+- 💼 LinkedIn: [Gabriel Barcelos](www.linkedin.com/in/gabiel-barcelos)    
+- 📸 Instagram: [@Gabbarcel](https://instagram.com/gabbarcel)
